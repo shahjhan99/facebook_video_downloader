@@ -74,7 +74,7 @@ murmurhash==1.0.10
 mutagen==1.47.0
 mypy-extensions==1.0.0
 mysql==0.0.3
-mysqlclient==2.2.4
+
 nltk==3.8.1
 numpy==1.26.4
 openai==1.30.5
